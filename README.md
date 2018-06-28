@@ -1,4 +1,4 @@
-# Project-Birds
+# Visualisation cartographique de données de recensement d’oiseaux
 
 ## Database used
 
@@ -30,7 +30,7 @@ of individuals observed
 
 
 ## Proposed visualization
-![alt text](./img1.png)
+![alt text](./useCase.png)
 
 ## Get started
 
